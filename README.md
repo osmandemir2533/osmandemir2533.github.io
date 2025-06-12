@@ -122,13 +122,16 @@ osmandemir2533.github.io/
    - Her projeye tıklayınca detay sayfası (ProjectDetail) açılır, burada projenin README'si markdown olarak gösterilir.
 
 4. **Oyunlar (Games)**
-   > ![Oyunlar](https://i.imgur.com/GbMGQpW.png)
+   > ![Oyunlar](https://i.imgur.com/Heiab3Z.png)
    > ![Oyunlar2](https://i.imgur.com/FTgWfEX.png)
    > ![Oyunlar3](https://i.imgur.com/ALMJ8Yj.png)
+   > ![Oyunlar4](https://i.imgur.com/rwohVs1.png)
    - Kendi geliştirdiğin oyunlar burada listelenir.
    - **Tic-Tac-Toe:** Flask tabanlı, AI destekli, canlı demo linkiyle.
-   - **Galactic Escape:** Kısa açıklama: "Galactic Escape, uzay temalı, refleks ve dikkat gerektiren bir mini browser oyunudur. Hedef: Engellerden kaçarak en yüksek puanı almak."
-   - Oyun kartları, görselleriyle birlikte, tıklanınca oynanabilir.
+   - **Galactic Escape:** Galactic Escape, uzay temalı, refleks ve dikkat gerektiren bir mini browser oyunudur. Hedef: Engellerden kaçarak en yüksek puanı almak.
+   - **Flappy Bird:** Flappy Bird, oyuncuların ekrana tıklayarak sürekli düşen kuşu yönlendirdiği ve engellerden kaçarak en yüksek puanı hedeflediği browser oyunudur.
+     
+    > Oyun kartları, görselleriyle birlikte, tıklanınca oynanabilir.
 
 5. **Deneyim (Experience)**
    > ![Deneyim](https://i.imgur.com/thFP9Xf.png)
@@ -147,7 +150,6 @@ osmandemir2533.github.io/
 
 - Google Analytics (GA4) kodu doğrudan `public/index.html` dosyasına eklenmiştir.
 - Ziyaretçi, şehir, trafik kaynağı gibi veriler Google Analytics panelinden izlenebilir.
-- Statik siteye hiçbir zararı yoktur, GitHub Pages ile %100 uyumludur.
 
 ---
 
@@ -155,7 +157,6 @@ osmandemir2533.github.io/
 
 #### Bundle.js Açıklaması
 - `bundle.js` dosyası, tüm JavaScript kodunun Webpack tarafından optimize edilmiş ve minify edilmiş halidir
-- Boyut: 622KB
 - İçerik: Tüm React bileşenleri, kütüphaneler ve uygulama mantığı
 - Performans optimizasyonları uygulanmıştır
 
@@ -172,7 +173,7 @@ osmandemir2533.github.io/
 
 #### İletişim Formu
 - Backend: Render üzerinde host edilen Node.js servisi
-- API Endpoint: `https://backendurl.com/api/`
+- API Endpoint
 - Form validasyonu
 - Başarılı/başarısız durum bildirimleri
 
@@ -194,6 +195,10 @@ osmandemir2533.github.io/
 
 ### Galactic Escape
 - Uzay temalı, refleks ve dikkat gerektiren mini browser oyunu.
+- Oyunlar sayfasından erişilebilir ve oynanabilir.
+
+### Flappy Bird
+- Oyuncuların ekrana tıklayarak sürekli düşen kuşu yönlendirdiği ve engellerden kaçarak en yüksek puanı hedeflediği browser oyunudur.
 - Oyunlar sayfasından erişilebilir ve oynanabilir.
 
 ---

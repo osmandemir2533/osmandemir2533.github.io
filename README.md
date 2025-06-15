@@ -1,4 +1,5 @@
-# Osman Demir Kişisel Web Sitesi - Portfolio
+# **Osman Demir Kişisel Web Sitesi - Portfolio**
+## _Canlı Ortam - Production Environment_
 
 Modern, responsive ve kullanıcı dostu bir kişisel web sitesi projesi. React ve Material-UI ile geliştirilmiş, GitHub Pages üzerinde yayınlanmaktadır. SPA (Single Page Application) mimarisi kullanılarak geliştirilmiştir. GitHub Pages'de yayında olan portfolio sitemin Backend kısmında ise dinamik iletişim formu, responsive tasarım ve modern UI/UX prensipleri içerir.
 
@@ -103,14 +104,14 @@ osmandemir2533.github.io/
 ### 🗂️ Sayfa Yapısı
 
 1. **Ana Sayfa (Home)**
-   > ![Ana Sayfa](https://i.imgur.com/ovvHnHA.png)
+   > ![Ana Sayfa](https://i.imgur.com/3L14Yya.png)
    - Hero section
    - Proje Github Yönlendirme
    - Yetenekler ve teknolojiler
    - Smooth scroll navigasyon
 
 2. **Hakkımda (About)**
-   > ![Hakkımda](https://i.imgur.com/fvayIV4.png)
+   > ![Hakkımda](https://i.imgur.com/E83yVxk.png)
    - Kişisel bilgiler
    - Eğitim geçmişi
    - Profesyonel özet
@@ -122,19 +123,20 @@ osmandemir2533.github.io/
    - Her projeye tıklayınca detay sayfası (ProjectDetail) açılır, burada projenin README'si markdown olarak gösterilir.
 
 4. **Oyunlar (Games)**
-   > ![Oyunlar](https://i.imgur.com/Heiab3Z.png)
+   > ![Oyunlar](https://i.imgur.com/RzzTFRJ.png)
    > ![Oyunlar2](https://i.imgur.com/FTgWfEX.png)
    > ![Oyunlar3](https://i.imgur.com/ALMJ8Yj.png)
    > ![Oyunlar4](https://i.imgur.com/rwohVs1.png)
-   - Kendi geliştirdiğin oyunlar burada listelenir.
-   - **Tic-Tac-Toe:** Flask tabanlı, AI destekli, canlı demo linkiyle.
-   - **Galactic Escape:** Galactic Escape, uzay temalı, refleks ve dikkat gerektiren bir mini browser oyunudur. Hedef: Engellerden kaçarak en yüksek puanı almak.
-   - **Flappy Bird:** Flappy Bird, oyuncuların ekrana tıklayarak sürekli düşen kuşu yönlendirdiği ve engellerden kaçarak en yüksek puanı hedeflediği browser oyunudur.
+   > ![Oyunlar5](https://i.imgur.com/trS2qpc.png)
+   - **Tic-Tac-Toe:** Yatay, dikey veya çapraz olarak aynı sembolü sırasıyla yerleştirerek kazananı belirleyen, Flask tabanlı, AI destekli (Minimax & MCTS) ve responsive bir browser oyunudur.
+   - **Galactic Escape:** Uzay temalı, refleks ve dikkat gerektiren, engellerden kaçarak en yüksek puanı almayı hedeflediğiniz mini bir browser oyunudur.
+   - **Flappy Bird:** Oyuncuların ekrana tıklayarak sürekli düşen kuşu yönlendirdiği ve engellerden kaçarak en yüksek puanı hedeflediği browser oyunudur.
+   - **Piano:** Tüm cihazlarda sorunsuz çalışan ve farklı ekran boyutlarına uyum sağlayan **responsive** tasarımıyla, müziği keşfetmek isteyenler için eğlenceli bir müzik oyunudur.
      
     > Oyun kartları, görselleriyle birlikte, tıklanınca oynanabilir.
 
 5. **Deneyim (Experience)**
-   > ![Deneyim](https://i.imgur.com/thFP9Xf.png)
+   > ![Deneyim](https://i.imgur.com/6ta4cwr.png)
    - İş deneyimleri
    - Proje deneyimleri
    - Timeline görünümü
@@ -190,15 +192,19 @@ osmandemir2533.github.io/
 ### 🕹️ Oyunlar Hakkında
 
 ### Tic-Tac-Toe
-- Flask tabanlı, AI (Minimax & MCTS) destekli, responsive ve canlı demo.
+- Tic Tac Toe oyununun amacı, yatay, dikey veya çapraz çizgilerde aynı sembolü (X veya O) arka arkaya yerleştirmektir. Aynı sembolü sırasıyla yerleştiren oyuncu oyunu kazanır. Flask tabanlı, AI destekli (Minimax & MCTS algoritmaları), responsive tasarıma sahip ve canlı demo ile oynanabilir.
 - [Canlı Oyna](https://tic-tac-toe-2fjq.onrender.com/)
 
 ### Galactic Escape
-- Uzay temalı, refleks ve dikkat gerektiren mini browser oyunu.
+- Uzay temalı, refleks ve dikkat gerektiren, engellerden kaçarak en yüksek puanı almayı hedeflediğiniz mini bir browser oyunudur.
 - Oyunlar sayfasından erişilebilir ve oynanabilir.
 
 ### Flappy Bird
 - Oyuncuların ekrana tıklayarak sürekli düşen kuşu yönlendirdiği ve engellerden kaçarak en yüksek puanı hedeflediği browser oyunudur.
+- Oyunlar sayfasından erişilebilir ve oynanabilir.
+
+### Piano
+- Tüm cihazlarda sorunsuz çalışan ve farklı ekran boyutlarına uyum sağlayan responsive tasarımıyla, A, S, D, F ... gibi tuşlar ile klavyeden de oynanabilen, müziği keşfetmek isteyen herkes için keyifli bir oyun deneyimi sunan eğlenceli piyano çalma oyunudur.
 - Oyunlar sayfasından erişilebilir ve oynanabilir.
 
 ---

@@ -1,7 +1,7 @@
 # **Osman Demir Kişisel Web Sitesi - Portfolio**
 ## _Canlı Ortam - Production Environment_
 
-Modern, responsive ve kullanıcı dostu bir kişisel web sitesi projesi. React ve Material-UI ile geliştirilmiş, GitHub Pages üzerinde yayınlanmaktadır. SPA (Single Page Application) mimarisi kullanılarak geliştirilmiştir. GitHub Pages'de yayında olan portfolio sitemin Backend kısmında ise dinamik iletişim formu, responsive tasarım ve modern UI/UX prensipleri içerir.
+Modern, responsive ve kullanıcı dostu bir kişisel web sitesi projesi. React ve Material-UI ile geliştirilmiş, GitHub Pages üzerinde yayınlanmaktadır. SPA (Single Page Application) mimarisi kullanılarak geliştirilmiştir. GitHub Pages'de yayında olan portfolio sitemin Backend kısmında ise dinamik iletişim formu, responsive tasarım ve modern UI/UX prensipleri içerir. 
 
 [![Website](https://img.shields.io/badge/Website-Live-1976d2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://osmandemir2533.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osmandemir2533)

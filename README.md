@@ -32,6 +32,16 @@ npm start
 
 ---
 
+---
+
+• Proje şu anda **GitHub Pages** üzerinden yayında: [**osmandemir2533.github.io**](https://osmandemir2533.github.io/)
+
+• Olası sorunlara karşı yedek olarak **Netlify** üzerinden de yayınlanmaktadır: [**osmandemir.netlify.app**](https://osmandemir.netlify.app/)
+
+---
+
+---
+
 ## 📁 Dosya ve Klasör Yapısı
 
 ```
@@ -104,7 +114,7 @@ osmandemir2533.github.io/
 ### 🗂️ Sayfa Yapısı
 
 1. **Ana Sayfa (Home)**
-   > ![Ana Sayfa](https://i.imgur.com/9VQlxQz.png)
+   > ![Ana Sayfa](https://i.imgur.com/fK2wQMo.png)
    - Hero section
    - Proje Github Yönlendirme
    - Yetenekler ve teknolojiler

@@ -104,7 +104,7 @@ osmandemir2533.github.io/
 ### 🗂️ Sayfa Yapısı
 
 1. **Ana Sayfa (Home)**
-   > ![Ana Sayfa](https://i.imgur.com/3L14Yya.png)
+   > ![Ana Sayfa](https://i.imgur.com/9VQlxQz.png)
    - Hero section
    - Proje Github Yönlendirme
    - Yetenekler ve teknolojiler
@@ -136,7 +136,7 @@ osmandemir2533.github.io/
     > Oyun kartları, görselleriyle birlikte, tıklanınca oynanabilir.
 
 5. **Deneyim (Experience)**
-   > ![Deneyim](https://i.imgur.com/6ta4cwr.png)
+   > ![Deneyim](https://i.imgur.com/qaLQ2du.png)
    - İş deneyimleri
    - Proje deneyimleri
    - Timeline görünümü

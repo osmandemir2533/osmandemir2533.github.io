@@ -37,7 +37,7 @@ npm start
 • Proje şu anda **GitHub Pages** üzerinden yayında: [**osmandemir2533.github.io**](https://osmandemir2533.github.io/)
 
 • Olası sorunlara karşı yedek olarak **Netlify** üzerinden de yayınlanmaktadır: [**osmandemir.netlify.app**](https://osmandemir.netlify.app/)
-
+ 
 ---
 
 ---

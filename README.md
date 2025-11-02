@@ -114,7 +114,7 @@ osmandemir2533.github.io/
 ### 🗂️ Sayfa Yapısı
 
 1. **Ana Sayfa (Home)**
-   > ![Ana Sayfa](https://i.imgur.com/fK2wQMo.png)
+   > ![Ana Sayfa](https://i.imgur.com/BbvL7qB.png)
    - Hero section
    - Proje Github Yönlendirme
    - Yetenekler ve teknolojiler
@@ -146,7 +146,7 @@ osmandemir2533.github.io/
     > Oyun kartları, görselleriyle birlikte, tıklanınca oynanabilir.
 
 5. **Deneyim (Experience)**
-   > ![Deneyim](https://i.imgur.com/qaLQ2du.png)
+   > ![Deneyim](https://i.imgur.com/kpsXirw.png)
    - İş deneyimleri
    - Proje deneyimleri
    - Timeline görünümü
@@ -160,7 +160,7 @@ osmandemir2533.github.io/
 
 ### 📊 Google Analytics Entegrasyonu
 
-- Google Analytics (GA4) kodu doğrudan `public/index.html` dosyasına eklenmiştir.
+- Google Analytics (GA4) kodu eklenmiştir.
 - Ziyaretçi, şehir, trafik kaynağı gibi veriler Google Analytics panelinden izlenebilir.
 
 ---
@@ -236,18 +236,6 @@ Content-Type: application/json
   "message": "string"
 }
 ```
-
----
-
-## 🔧 Önemli Noktalar
-
-1. GitHub Pages için HashRouter kullanılmalı
-2. Tüm asset'ler public klasöründe olmalı
-3. Build sonrası dist klasörü deploy edilmeli
-4. Backend URL'i environment variable olarak tutulmalı
-5. GitHub Pages'de sayfa yenileme sorunu (HashRouter ile çözüldü)
-6. Backend CORS ayarları
-7. Form gönderimi sonrası state yönetimi
 
 ---
 
